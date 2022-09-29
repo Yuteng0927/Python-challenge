@@ -1,5 +1,6 @@
 # Python-challenge
 python [homework](https://github.com/Yuteng0927/Python-challenge)
+
 In this assignment, you'll complete two challenges in which you'll apply your new Python skills. 
 
 ## Background
